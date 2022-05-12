@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kim Min Chul, Villages at Crossroads: Colonial Power and Rural Society (2012), Summary
+published: true
 ---
 
 # The Reason for Reading This Book
