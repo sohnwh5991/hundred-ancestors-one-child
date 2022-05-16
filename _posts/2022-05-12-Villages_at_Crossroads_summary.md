@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Min Chul Kim, 2012, Villages at Crossroads, Summary
+published: true
 ---
 
 # Villages at Crossroads: Colonial Power and Rural Society (2012) Summary
